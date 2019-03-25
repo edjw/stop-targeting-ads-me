@@ -1,0 +1,22 @@
+.navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+
+.opt-out-link {
+    word-wrap: break-word;
+}
+
+.logo {
+    width: 100%;
+}
+
+.logo-wrapper {
+    min-width: 40%;
+    width: 40%;
+    height: auto;
+}
+
+.media {
+    background-color: rgb(233, 236, 239);
+}

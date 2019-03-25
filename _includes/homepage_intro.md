@@ -1,0 +1,5 @@
+Websites, apps, and devices collect data about <span class="mark">what you do</span> and <span class="mark">who you are.</span>
+
+<span class="mark">Advertisers</span> use that data to <span class="mark">target ads at you.</span>
+
+__This website helps you to <span class="mark">turn off this targeted advertising.</span>__

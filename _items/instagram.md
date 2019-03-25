@@ -1,0 +1,14 @@
+---
+name: Instagram
+logo: instagram.svg
+link: https://www.facebook.com/ads/preferences
+---
+This applies to Facebook and Instagram.
+
+1. You will probably have a lot of 'Interests' and 'Advertisers…who use a contact list (that includes the email address/phone number you've given FB) added to Facebook. You can click the Remove button on all of them or, to save time, use [this script](https://gist.github.com/edjw/8f398366bcf98bec09d282b79c030edd). Facebook will add more interests back to this over time, so you might want to check back here regularly.
+
+1. In 'Your Information', disable 'Relationship status', 'Employer', 'Job title', and 'Education'
+
+1. In 'Ad Settings', turn 'Ads based on data from partners' and 'Ads based on your activity on Facebook Company Products that you see elsewhere' to Not Allowed. Turn 'Ads that include your social actions' to 'No one'.
+
+1. In 'Hide ad topics', turn 'Alcohol', 'Parenting', and 'Pets' to 'Hide Permanently'.

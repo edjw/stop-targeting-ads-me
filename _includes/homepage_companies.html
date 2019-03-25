@@ -1,0 +1,36 @@
+<div class="row">
+
+    {% for item in site.items %}
+
+    <div class="col-sm-6 col-md-6 col-lg-4 mt-4 px-2">
+        {% assign item_url = item.url | split: '.html' %}
+        <a href="{{ item_url[0] }}" class="text-decoration-none">
+
+            <div class="media pl-2 py-2 rounded-lg border border-secondary">
+                <div class="logo-wrapper mr-3">
+                    {% if item.logo %}
+                    <img src="images/logos/{{ item.logo }}" class="logo" alt="">
+                    {% else %}
+                    <img src="images/logos/default_logo.png" class="logo" alt="">
+                    {% endif %}
+                </div>
+
+                <div class="media-body align-self-center mr-5">
+                    <h5 class="text-dark">
+                        {% for name in item.name %}
+                        {{ name }}
+                        {% if item.name[0] and name != item.name[-1]%}
+                        /
+                        {% endif %}
+
+                        {% endfor %}
+                    </h5>
+
+                </div>
+            </div>
+
+        </a>
+    </div>
+    {% endfor %}
+
+</div>

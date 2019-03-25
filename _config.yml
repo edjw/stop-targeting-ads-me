@@ -1,0 +1,48 @@
+title: Stop Targeting Ads at Me
+description: >- # this means to ignore newlines until "baseurl:"
+  Advertisers use data about what you do and who you are to target ads at you. Start turning off this targeted advertising.
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://http://stoptargetingads.me" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Tell Jekyll to use the _headers file for security headers
+include:
+  - _headers
+
+collections:
+  items:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "items"
+    values:
+      layout: item_page
+
+# If an Atom/RSS feed is useful
+# feed:
+#   collections:
+#     - items
+
+# Header nav (remember the trailing /)
+navigation_header:
+  Home: /
+  About: /about/
+  # Blog: /blog/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
