@@ -6,8 +6,8 @@ url: "https://http://stoptargetingads.me" # the base hostname & protocol for you
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Tell Jekyll to use the _headers file for security headers
 include:
