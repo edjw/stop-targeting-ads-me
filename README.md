@@ -8,7 +8,7 @@ It is a static site that builds with Jekyll.
 
 ## To-Do
 
-- Check [the attempt at an API](https://stop-tracking-me.netlify.com/api/api.json) works and is useful for others
+- Check [the JSON file with all data in](https://stoptargetingads.me/api/api.json) works and is useful for others
 
 ## How to add a company or product to the site
 
