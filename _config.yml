@@ -1,9 +1,7 @@
 title: Stop Targeting Ads at Me
 description: >- # this means to ignore newlines until "baseurl:"
   Advertisers use data about what you do and who you are to target ads at you. Start turning off this targeted advertising.
-short_description: >-
-  Stop Targeting Ads at Me helps you turn off the targeting of adverts at you.
-url: "https://http://stoptargetingads.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stoptargetingads.me" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
