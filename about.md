@@ -22,6 +22,8 @@ You may see this kind of advertising referred to in ways including:
 - activity-based, and
 - relevant.
 
+**Ideally, the burden would not be on individual users to sort this out for themselves.** There should be good legal and technical solutions to this that do not require individuals to use their time and energy navigating the depths of settings pages to avoid having data about them used to targets ads at them. This website is a stop-gap until better solutions exist.
+
 [Ad industry efforts do exist](http://www.youronlinechoices.com/uk/your-ad-choices) to help people turn off online behavioural advertising. These systems apply settings on the browser level (eg, Firefox, Chrome, Safari). This means you have to turn off this targeted advertising on every browser and on every computer you use. The system is also quite difficult to use.
 
 *Stop Targeting Ads at Me* takes a different approach to the ad industry. This website suggests ways of turning off targeting within the user profile of each service. This means you only have to turn off the targeting once for each service or product you use. Your choice should then will apply everywhere you are logged in.
