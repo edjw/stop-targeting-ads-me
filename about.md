@@ -22,13 +22,13 @@ You may see this kind of advertising referred to in ways including:
 * activity-based, and
 * relevant.
 
-**Ideally, the burden on individual users to turn off targeting of ads wouldn't be so great as visiting lots of websites individually.** There should be better options available so people can control this without needing a site like this to guide them through the depths of settings pages. This website is a stop-gap that tries to make it easier to opt out until better options exist.
+**Ideally, the burden on individual users to turn off targeting of ads wouldn't be so great as visiting lots of websites individually.** There should be better options available so people can control this in a comprehensive way without needing a site like this to guide them through the depths of settings pages. This website is a stop-gap that tries to make it easier to opt out until better options exist.
 
 ### Other attempts to deal with this issue
 
 [Ad industry efforts do exist](http://www.youronlinechoices.com/uk/your-ad-choices) to help people opt out of online behavioural advertising.
 
-There are browser add-ons for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youronlinechoices-plugin) and [Chrome](https://chrome.google.com/webstore/detail/protect-my-choices/hdgloanjhdcenjgiafkpbehddcnonlic) to opt out of 'interest-based' ads from participating behavioural advertising companies.
+There are industry-made browser add-ons for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youronlinechoices-plugin) and [Chrome](https://chrome.google.com/webstore/detail/protect-my-choices/hdgloanjhdcenjgiafkpbehddcnonlic) to opt out of 'interest-based' ads from participating behavioural advertising companies.
 
 You can also [use this page](http://www.youronlinechoices.com/uk/your-ad-choices) to opt out of lots of companies' targeted ads. Wait for the page to load, then scroll down a bit and click on the red 'Turn off all companies' button that appears on the left. This page doesn't work properly if you have an adblocker browser add-on installed.
 
