@@ -8,7 +8,7 @@ permalink: /about/
 
 **Stop Targeting Ads at Me** helps you turn off the targeting of adverts at you. This targeting is usually based on data about how you behave online, who you are, or who you interact with.
 
-**If you'd prefer that data about you wasn't used to target ads at you**, you may find this website useful. You can find out the best way to turn off ad targeting and/or data collection for the websites, apps, or products you use.
+**If you'd prefer that data about you wasn't used to target ads at you**, you may find this website useful. You can find out the quickest way to turn off ad targeting and/or data collection for the websites, apps, or products you use without spending hours navigating complex settings pages.
 
 You may see this kind of advertising referred to in ways including:
 
@@ -22,7 +22,7 @@ You may see this kind of advertising referred to in ways including:
 * activity-based, and
 * relevant.
 
-**Ideally, the burden on individual users to turn off targeting of ads wouldn't be so great as visiting lots of websites individually.** There should be better options available so people can control this without needing a site like this to guide them through the depths of settings pages. This website is a stop-gap that tries to make it easier to find how to opt out until better options exist.
+**Ideally, the burden on individual users to turn off targeting of ads wouldn't be so great as visiting lots of websites individually.** There should be better options available so people can control this without needing a site like this to guide them through the depths of settings pages. This website is a stop-gap that tries to make it easier to opt out until better options exist.
 
 ### Other attempts to deal with this issue
 
