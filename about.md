@@ -12,7 +12,9 @@ permalink: /about/
 
 You may see this kind of advertising referred to in ways including: targeted, tailored, personalised, interest-based, behavioural, ads that interest you, audience-based, activity-based, and relevant.
 
-**Ideally, the burden on individual users to turn off targeting of ads wouldn't be so great as visiting lots of websites individually.** There should be better options available so people can control this in a comprehensive way without needing a site like this to guide them through the depths of settings pages. This website is a stop-gap that tries to make it easier to opt out until better options exist.
+**Ideally, the burden on individual users to turn off targeting of ads wouldn't be so great as visiting lots of websites individually.**
+
+There should be better options available so people can control this in a comprehensive way without needing a site like this to guide them through the depths of settings pages. This website is a stop-gap that tries to make it easier to opt out until better options exist.
 
 ### Other attempts to deal with this issue
 
