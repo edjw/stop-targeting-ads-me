@@ -26,13 +26,13 @@ You may see this kind of advertising referred to in ways including:
 
 ### Other attempts to deal with this issue
 
-[Ad industry efforts do exist](http://www.youronlinechoices.com/uk/your-ad-choices) to help people opt out of online behavioural advertising.
+[Ad industry efforts do exist](http://www.youronlinechoices.com/uk/your-ad-choices) to help people opt out of online behavioural advertising in limited ways.
 
 There are industry-made browser add-ons for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youronlinechoices-plugin) and [Chrome](https://chrome.google.com/webstore/detail/protect-my-choices/hdgloanjhdcenjgiafkpbehddcnonlic) to opt out of 'interest-based' ads from participating behavioural advertising companies.
 
 You can also [use this page](http://www.youronlinechoices.com/uk/your-ad-choices) to opt out of lots of companies' targeted ads. Wait for the page to load, then scroll down a bit and click on the red 'Turn off all companies' button that appears on the left. This page doesn't work properly if you have an adblocker browser add-on installed.
 
-Both these approaches above apply on the individual browser level (eg, Firefox, Chrome, Safari). This means you have to would have to repeat these steps on every browser and on every computer you use.
+Both these approaches above apply on the individual browser level (eg, Firefox, Chrome, Safari). This means you have to would have to repeat these steps on every browser and on every computer you use. They also won't/can't affect data collection from apps, TVs, e-readers, or anything else that isn't a browser.
 
 *Stop Targeting Ads at Me* takes a different approach to the ad industry. This website suggests ways of turning off targeting within the user profile of each service or across every service on a single device. This means you only have to turn off the targeting once for each service or product you use. Your choice should then apply everywhere you are logged in, including on different browsers and devices.
 
