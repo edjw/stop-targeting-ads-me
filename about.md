@@ -10,17 +10,7 @@ permalink: /about/
 
 **If you'd prefer that data about you wasn't used to target ads at you**, you may find this website useful. You can find out the quickest way to turn off ad targeting and/or data collection for the websites, apps, or products you use without spending hours navigating complex settings pages.
 
-You may see this kind of advertising referred to in ways including:
-
-* targeted,
-* tailored,
-* personalised,
-* interest-based,
-* behavioural,
-* ads that interest you,
-* audience-based,
-* activity-based, and
-* relevant.
+You may see this kind of advertising referred to in ways including: targeted, tailored, personalised, interest-based, behavioural, ads that interest you, audience-based, activity-based, and relevant.
 
 **Ideally, the burden on individual users to turn off targeting of ads wouldn't be so great as visiting lots of websites individually.** There should be better options available so people can control this in a comprehensive way without needing a site like this to guide them through the depths of settings pages. This website is a stop-gap that tries to make it easier to opt out until better options exist.
 
@@ -36,15 +26,18 @@ Both these approaches above apply on the individual browser level (eg, Firefox, 
 
 *Stop Targeting Ads at Me* takes a different approach to the ad industry. This website suggests ways of turning off targeting within the user profile of each service or across every service on a single device. This means you only have to turn off the targeting once for each service or product you use. Your choice should then apply everywhere you are logged in, including on different browsers and devices.
 
-### Re-using the data from this website
-
-**[An always up-to-date JSON file](/api/api.json) is available** which, for each of the services on this website, contains: the name(s), link to the page on this website, opt-out link(s), and opt-out instructions.
-
 ### Limitations
 
 After you turn off this targeting, you will still be served with advertising. But this advertising should not be based on this behavioural and demographic data any more. In some cases, you may still be served with ads based on your rough location or the content of the website you're on.
 
 The websites, apps, and products on this website currently skew a bit towards those which are popular in the UK.
+
+### Re-using the data from this website
+
+Except for [company logos](/credits), content on this website is under a 
+[Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0). In short, this means you are free to copy, redistribute, and adapt this work as long as you attribute the original source and, if you make adaptations, share your new work under a ShareAlike license.
+
+**[An always up-to-date JSON file](/api/api.json) is available** which, for each of the services on this website, contains: the name(s), link to the page on this website, opt-out link(s), and opt-out instructions.
 
 ### Contact me
 
