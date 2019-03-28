@@ -12,3 +12,5 @@ This applies to Facebook and Instagram.
 1. In 'Ad Settings', turn 'Ads based on data from partners' and 'Ads based on your activity on Facebook Company Products that you see elsewhere' to Not Allowed. Turn 'Ads that include your social actions' to 'No one'.
 
 1. In 'Hide ad topics', turn 'Alcohol', 'Parenting', and 'Pets' to 'Hide Permanently'.
+
+You may also want to [visit this page](https://www.facebook.com/settings?tab=facerec) to turn off facial recognition of you in photos and videos uploaded to Facebook.
