@@ -1,6 +1,6 @@
 ---
-name: Grndr
-logo: grndr.png
+name: Grindr
+logo: grindr.png
 link:
 ---
 Opt out is on device only.

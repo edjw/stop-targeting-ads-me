@@ -5,7 +5,7 @@ layout: default
 
     <div class="row mt-4">
         <div class="col-sm-8 offset-sm-2 col-md-6 offset-md-3 py-3">
-            <div class="py-2 row align-items-center rounded">
+            <div class="py-2 row align-items-center">
                 <div class="col-3">
                     {% if page.logo %}
 
@@ -40,7 +40,7 @@ layout: default
                 %}these links{% else %}this link{% endif %}.</p>
             {% for link in page.link %}
             <div class="mt-3"></div>
-            <a class="opt-out-link" target="_blank" rel="noopener noreferrer" href="{{ link }}">{{ link }}</a>
+            <a class="word-wrap-break-word" target="_blank" rel="noopener noreferrer" href="{{ link }}">{{ link }}</a>
             <br>
             {% endfor %}
         </div>
@@ -54,6 +54,14 @@ layout: default
             <h3 class="border-bottom">Notes / Instructions on how to opt out</h3>
             <div class="mt-3"></div>
             {{ content }}
+        </div>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-sm-8 offset-sm-2 col-md-6 offset-md-3">
+            <h4 class="border-bottom">Share this information with others</h4>
+            <div class="mt-3"></div>
+            {% include share_buttons.html %}
         </div>
     </div>
 </div>
