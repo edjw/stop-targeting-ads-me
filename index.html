@@ -8,8 +8,8 @@ title: home
             <div class="bg-light my-4 pt-4 pb-4">
                 <div class="col-10 offset-1 pl-0">
                     <div class="lead">
-                        {% capture homepage_intro %}{% include homepage_intro.md %}{% endcapture %}
-                        {{ homepage_intro | markdownify }}
+                        <p></p>
+                        {% include homepage_intro.html %}
                     </div>
                 </div>
             </div>
@@ -33,7 +33,6 @@ title: home
                     </div>
                 </div>
             </div>
-
             {% include homepage_companies.html %}
         </div>
     </div>

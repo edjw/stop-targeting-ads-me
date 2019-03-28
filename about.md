@@ -8,7 +8,7 @@ permalink: /about/
 
 **Stop Targeting Ads at Me** helps you turn off the targeting of adverts at you. This targeting is usually based on data about how you behave online, who you are, or who you interact with.
 
-**If you'd prefer that data about you wasn't used to target ads at you**, you may find this website useful. You can find out the best way to turn off ad targeting and/or data collection for the websites, apps, or products you use.
+**If you'd prefer that data about you wasn't used to target ads at you**, you may find this website useful. You can find out the best way to turn off ad targeting and/or data collection for {{ site.items.size }} of the websites, apps, or products you use.
 
 You may see this kind of advertising referred to in ways including:
 
@@ -48,6 +48,8 @@ The websites, apps, and products on this website currently skew a bit towards th
 
 ### Contact me
 
-At the moment, **the best way of suggesting further companies and products to add to this site is probably to [contact me through Twitter](https://twitter.com/_edjw).** If you are keen and a (little) bit technical, take a look at [these instructions on Github about how to add more companies and products to the site](https://github.com/edjw/stop-targeting-ads-me#how-to-add-a-company-or-product-to-the-site).
+At the moment, the best way of suggesting further companies and products to add to this site is to **[contact me through Twitter](https://twitter.com/_edjw)** or to **email me at [hello@stoptargetingads.me](mailto:hello@stoptargetingads.me)**
+
+If you are keen and a (little) bit technical, take a look at [these instructions on Github about how to add more companies and products to the site](https://github.com/edjw/stop-targeting-ads-me#how-to-add-a-company-or-product-to-the-site).
 
 **This is [a personal project by Ed Johnson-Williams](https://twitter.com/_edjw).** Let me know if you have any thoughts about how to make this site better! :-)
