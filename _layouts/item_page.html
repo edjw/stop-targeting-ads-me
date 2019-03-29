@@ -38,11 +38,16 @@ layout: default
             <p class="text-muted">You may have to log in or confirm your password after clicking on {% if
                 page.link[0]
                 %}these links{% else %}this link{% endif %}.</p>
-            {% for link in page.link %}
-            <div class="mt-3"></div>
-            <a class="word-wrap-break-word" target="_blank" rel="noopener noreferrer" href="{{ link }}">{{ link }}</a>
-            <br>
-            {% endfor %}
+
+            <ul class="dashed">
+                {% for link in page.link %}
+                <li>
+                    <a class="word-wrap-break-word" target="_blank" rel="noopener noreferrer"
+                        href="{{ link }}">{{ link }}</a>
+                </li>
+                <br>
+                {% endfor %}
+            </ul>
         </div>
     </div>
     {% endif %}
