@@ -5,13 +5,17 @@
             <h1>
                 <a class="text-dark text-decoration-none" href="/">{{ site.title }}</a>
             </h1>
+            <h5>
+                {{ site.tagline_part_one }} {{ site.items.size }} {{ site.tagline_part_two}}
+            </h5>
         </div>
 
         <div class="col-12 col-md-3 pr-md-5">
             <ul class="navbar-nav mr-auto border-top">
                 {% for item in site.navigation_header %}
                 <li class="nav-item mx-auto{% if item[1] == page.url %} active{% endif %}">
-                    <a class="nav-link px-5 px-md-0" href="{{ item[1] }}">{{ item[0] }} {% if item[1] == page.url %}<span class="sr-only">(current)</span>{% endif %}</a>
+                    <a class="nav-link px-5 px-md-0" href="{{ item[1] }}">{{ item[0] }}
+                        {% if item[1] == page.url %}<span class="sr-only">(current)</span>{% endif %}</a>
                 </li>
 
                 {% endfor %}

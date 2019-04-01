@@ -1,16 +1,20 @@
 title: Stop Targeting Ads at Me
-description: >- # this means to ignore newlines until "baseurl:"
+tagline_part_one: Helps you turn off targeted ads on
+tagline_part_two: websites, apps, and devices
+# The current number of sites goes between these two parts above on the frontend. (This file is completely static.)
+description: >- # this means to ignore newlines
   Advertisers use data about what you do and who you are to target ads at you. Start turning off this targeted advertising.
-url: "https://stoptargetingads.me" # the base hostname & protocol for your site
+url: "https://stoptargetingads.me"
+
+# Header nav (remember the trailing /)
+navigation_header:
+  Home: /
+  About: /about/
 
 # Build settings
 markdown: kramdown
 # plugins:
 #   - jekyll-feed
-
-# Tell Jekyll to use the _headers file for security headers
-include:
-  - _headers
 
 collections:
   items:
@@ -24,16 +28,14 @@ defaults:
     values:
       layout: item_page
 
+# Tell Jekyll to use the _headers file for security headers
+include:
+  - _headers
+
 # If an Atom/RSS feed is useful
 # feed:
 #   collections:
 #     - items
-
-# Header nav (remember the trailing /)
-navigation_header:
-  Home: /
-  About: /about/
-  # Blog: /blog/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -16,7 +16,7 @@ Each company/product needs a single markdown file (.md) in the format below. The
 
 ### Single name and single opt-out link
 
-```
+```markdown
 ---
 name: Name 1
 logo: logo.png
@@ -27,7 +27,7 @@ Instructions on how to opt out go here. You can use any Markdown here.
 
 ### Multiple names and multiple opt-out links
 
-```
+```markdown
 ---
 name:
   - Name 1
