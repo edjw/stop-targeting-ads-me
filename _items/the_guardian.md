@@ -2,8 +2,8 @@
 name: The Guardian
 logo: theguardian.png
 link:
-	- https://profile.theguardian.com/privacy-settings
-	- https://profile.theguardian.com/email-prefs
+    - https://profile.theguardian.com/privacy-settings
+    - https://profile.theguardian.com/email-prefs
 ---
 On the first link above, click the small circle (radio button) next to "I do not want to see personalised ads"
 
