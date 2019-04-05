@@ -10,5 +10,5 @@ SimpleJekyllSearch({
 	resultsContainer: document.getElementById("results-container"),
 	json: "/search.json",
 	searchResultTemplate: "<a href=\"{relative_url}\"><li class=\"list-group-item\">{title}</li></a>",
-	noResultsText: "<p><strong>No results found.</strong></p><p>Ask for a website, app, or device to be added to the site by sending an email to <a href=\"mailto:hello@stoptargetingads.me\">hello@stoptargetingads.me</a></p>"
+	noResultsText: "<p><strong>No results found.</strong></p><p>Ask for a website, app, service, or device to be added to the site by sending an email to <a href=\"mailto:hello@stoptargetingads.me\">hello@stoptargetingads.me</a></p>"
 });

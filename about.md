@@ -8,7 +8,7 @@ permalink: /about/
 
 **Stop Targeting Ads at Me** helps you turn off the targeting of adverts at you. This targeting is usually based on data about how you behave online, who you are, or who you interact with.
 
-**If you'd prefer that data about you wasn't used to target ads at you**, you may find this website useful. You can find out the best way to turn off ad targeting and/or data collection for {{ site.items.size }} of the websites, apps, or products you use without spending hours navigating complex settings pages.
+**If you'd prefer that data about you wasn't used to target ads at you**, you may find this website useful. You can find out the best way to turn off ad targeting and/or data collection for {{ site.items.size }} of the websites, apps, services, or products you use without spending hours navigating complex settings pages.
 
 You may see this kind of advertising referred to in ways including: *targeted*, *tailored*, *personalised*, *interest-based*, *behavioural*, *ads that interest you*, *audience-based*, *activity-based*, and *relevant*.
 
@@ -32,7 +32,7 @@ Both these approaches above apply on the individual browser level (eg, Firefox, 
 
 After you turn off this targeting, you will still be served with advertising. But this advertising should not be based on this behavioural and demographic data any more. In some cases, you may still be served with ads based on your rough location or the content of the website you're on.
 
-The websites, apps, and products on this website currently skew a bit towards those which are popular in the UK.
+The websites, apps, services, and products on this website currently skew a bit towards those which are popular in the UK.
 
 ### Re-using the data from this website
 
