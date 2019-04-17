@@ -4,3 +4,6 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
   Content-Security-Policy: default-src 'self'; img-src 'self' data: https://matomo.edjw.co.uk https://*.cloudfront.net; script-src 'self' https://matomo.edjw.co.uk https://*.cloudfront.net; style-src 'self' https://*.cloudfront.net https://stackpath.bootstrapcdn.com;
+
+/api/*
+  Access-Control-Allow-Origin: *
