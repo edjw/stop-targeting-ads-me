@@ -34,14 +34,14 @@ collections:
         name: "name"
         widget: "list"
         hint: "The name or names of the company"
-        field: {label: Name, name: name, widget: string}
+        field: {label: "Name", name: "name_item", widget: "string"}
 
       - label: "Links"
         name: "link"
         widget: "list"
         hint: "Link(s) to the opt out page(s) for that organisation"
         required: false
-        field: {label: Link, name: link, widget: string, required: false}
+        field: {label: "Link", name: "link_item", widget: "string", required: false}
 
       - label: "Logo"
         name: "logo"
