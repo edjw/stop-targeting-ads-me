@@ -19,12 +19,20 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Name", name: "name", widget: "string", description: "The name or names of the company"}
-      - {label: "Link", name: "link", widget: "list", description: "Link(s) to the opt out page(s) for that organisation"}
+
+      - label: "Links"
+        name: "link"
+        widget: "list"
+        description: "Link(s) to the opt out page(s) for that organisation"
+        required: false
+        field: {label: Link, name: link, widget: string}
+
       - label: "Logo"
         name: "logo"
         widget: "image"
         default: "images/site/default_logo.png"
         description: "The company logo"
+
         media_library:
           config:
             multiple: false
