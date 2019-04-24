@@ -17,14 +17,14 @@ collections:
     identifier_field: name
     folder: "_items"
     create: true
-    slug: "{{slug}}"
+    slug: "{{name}}"
     fields: # The fields for each document, usually in front matter
 
       - label: "Name"
         name: "name"
         widget: "list"
         hint: "The name or names of the company"
-        field: {label: Name, name: name, widget: string}
+        field: {label: Name, name: names, widget: string}
 
       - label: "Links"
         name: "link"
