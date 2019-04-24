@@ -1,6 +1,6 @@
 ---
 name: Foursquare
-logo: foursquare.png
+logo: /images/logos/foursquare.png
 link: https://foursquare.com/settings/privacy
 ---
 This is the same for Foursquare and Swarm.

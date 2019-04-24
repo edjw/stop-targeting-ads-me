@@ -1,6 +1,6 @@
 ---
 name: Google
-logo: google.svg
+logo: /images/logos/google.svg
 link:
   - https://adssettings.google.com/authenticated
   - https://myaccount.google.com/shared-endorsements

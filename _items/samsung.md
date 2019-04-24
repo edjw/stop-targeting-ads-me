@@ -1,6 +1,6 @@
 ---
 name: Samsung
-logo: samsung.png
+logo: /images/logos/samsung.png
 link:
 ---
 Can someone with a Samsung account send me a URL for this?

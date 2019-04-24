@@ -1,6 +1,6 @@
 ---
 name: Pinterest
-logo: pinterest.svg
+logo: /images/logos/pinterest.svg
 link: https://www.pinterest.com/settings/privacy
 ---
 **Firstly**, if you use the Pinterest mobile app, turn off targeted ads on the devices you use:

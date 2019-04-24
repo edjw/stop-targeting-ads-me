@@ -1,6 +1,6 @@
 ---
 name: Snapchat
-logo: snapchat.svg
+logo: /images/logos/snapchat.svg
 link:
 ---
 Opt out in app only

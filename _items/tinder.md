@@ -1,6 +1,6 @@
 ---
 name: Tinder
-logo: tinder.png
+logo: /images/logos/tinder.png
 link:
 ---
 You need to give them a phone number or Facebook account to sign up and I'm not doing that.

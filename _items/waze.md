@@ -1,6 +1,6 @@
 ---
 name: Waze
-logo: waze.png
+logo: /images/logos/waze.png
 link:
 ---
 Opt out is in app only.

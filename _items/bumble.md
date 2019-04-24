@@ -1,6 +1,6 @@
 ---
 name: Bumble
-logo: bumble.png
+logo: /images/logos/bumble.png
 link:
 ---
 You need to give them a phone number or Facebook account to sign up and I'm not doing that. Bumble's privacy policy says they do targeted ads.

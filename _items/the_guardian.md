@@ -1,6 +1,6 @@
 ---
 name: The Guardian
-logo: theguardian.png
+logo: /images/logos/theguardian.png
 link:
     - https://profile.theguardian.com/privacy-settings
     - https://profile.theguardian.com/email-prefs

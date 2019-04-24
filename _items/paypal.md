@@ -1,6 +1,6 @@
 ---
 name: Paypal
-logo: paypal.svg
+logo: /images/logos/paypal.svg
 link:
   - https://www.paypal.com/myaccount/settings/personalization/paypal
   - https://www.paypal.com/myaccount/settings/personalization/other

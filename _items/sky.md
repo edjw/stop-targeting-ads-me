@@ -1,6 +1,6 @@
 ---
 name: Sky
-logo: sky.png
+logo: /images/logos/sky.png
 link: https://www.sky.com/myaccount/my-details
 ---
 

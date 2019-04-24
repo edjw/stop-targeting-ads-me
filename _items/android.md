@@ -1,6 +1,6 @@
 ---
 name: Android
-logo: android.svg
+logo: /images/logos/android.svg
 link:
 ---
 No URL. Opt out happens on device.

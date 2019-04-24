@@ -1,6 +1,6 @@
 ---
 name: TikTok
-logo: tiktok.png
+logo: /images/logos/tiktok.png
 link:
 ---
 Opt out is in app only.
