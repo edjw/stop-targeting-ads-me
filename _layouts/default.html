@@ -12,6 +12,7 @@
 
     <title>{{ site.title }}</title>
     <script src="/js/matomo_piwik_counter.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -28,6 +29,19 @@
     {% if page.title == "home" %}
     <script src="/js/rename_search_placeholder.js"></script>
     <script src="/js/simple-jekyll-search-script.js"></script>
+    <script>
+        "use strict";
+
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", function (user) {
+                if (!user) {
+                    window.netlifyIdentity.on("login", function () {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+    </script>
     {% endif %}
 
 
