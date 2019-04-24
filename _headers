@@ -3,4 +3,12 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
+<<<<<<< HEAD
   Content-Security-Policy: default-src 'self'; img-src 'self' data: https://matomo.edjw.co.uk https://*.cloudfront.net; script-src 'self' https://matomo.edjw.co.uk https://*.cloudfront.net https://identity.netlify.com https://unpkg.com; style-src 'self' https://*.cloudfront.net https://stackpath.bootstrapcdn.com;
+=======
+  Content-Security-Policy: default-src 'self'; img-src 'self' data: https://matomo.edjw.co.uk https://*.cloudfront.net; script-src 'self' https://matomo.edjw.co.uk https://*.cloudfront.net; style-src 'self' https://*.cloudfront.net https://stackpath.bootstrapcdn.com;
+
+/api/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET
+>>>>>>> 7200534982d2ba5f5d8696759373e4787206806e

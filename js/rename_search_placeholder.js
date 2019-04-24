@@ -1,4 +1,4 @@
-var itemNames = ["Google", "Apple", "Android", "Twitter", "Facebook", "Microsoft"];
+var itemNames = ["Amazon", "Google", "Apple", "Android", "Twitter", "Facebook", "Microsoft"];
 
 function getRandomIntInclusive(min, max) {
 	min = Math.ceil(min);
