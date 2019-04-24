@@ -17,9 +17,14 @@ collections:
     identifier_field: name
     folder: "_items"
     create: true
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
-      - {label: "Name", name: "name", widget: "string", hint: "The name or names of the company"}
+
+      - label: "Name"
+        name: "name"
+        widget: "list"
+        hint: "The name or names of the company"
+        field: {label: Name, name: name, widget: string}
 
       - label: "Links"
         name: "link"
@@ -33,8 +38,8 @@ collections:
         widget: "image"
         default: "images/site/default_logo.png"
         hint: "The company logo"
-
         media_library:
           config:
             multiple: false
+
       - {label: "Body", name: "body", widget: "markdown", hint: "The instructions about how to opt out"}
