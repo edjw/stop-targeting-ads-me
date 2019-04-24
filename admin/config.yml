@@ -19,7 +19,7 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Name", name: "name", widget: "string", description: "The name or names of the company"}
-      - {label: "Link", name: "link", widget: "string", description: "Link(s) to the opt out page(s) for that organisation"}
+      - {label: "Link", name: "link", widget: "list", description: "Link(s) to the opt out page(s) for that organisation"}
       - label: "Logo"
         name: "logo"
         widget: "image"
