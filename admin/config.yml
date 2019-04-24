@@ -34,7 +34,7 @@ collections:
         name: "name"
         widget: "list"
         hint: "The name or names of the company"
-        field: {label: Name, name: names, widget: string}
+        field: {label: Name, name: name, widget: string}
 
       - label: "Links"
         name: "link"
