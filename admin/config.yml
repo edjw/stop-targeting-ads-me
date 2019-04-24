@@ -13,7 +13,7 @@ media_folder: "images/logos"
 collections:
   - name: "item"
     label: "Items"
-    singular_label: "Item"
+    label_singular: "Item"
     identifier_field: name
     folder: "_items"
     create: true
