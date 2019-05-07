@@ -3,7 +3,7 @@ name:
   - Oath
   - Yahoo
   - Tumblr
-logo: oath.png
+logo: /images/logos/oath.png
 link:
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Netflix
-logo: netflix.png
+logo: /images/logos/netflix.png
 link: https://www.netflix.com/MarketingCommunications
 ---
 Uncheck the checkbox next to Use contact information from my Netflix account to send promotional communications on third party services.

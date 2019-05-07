@@ -1,6 +1,6 @@
 ---
 name: Twitch
-logo: twitch.png
+logo: /images/logos/twitch.png
 link: https://www.twitch.tv/settings/security
 ---
 

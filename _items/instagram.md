@@ -1,6 +1,6 @@
 ---
 name: Instagram
-logo: instagram.svg
+logo: /images/logos/instagram.svg
 link: https://www.facebook.com/ads/preferences
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Microsoft Windows
-logo: windows.svg
+logo: /images/logos/windows.svg
 link:
 ---
 _Windows 10_

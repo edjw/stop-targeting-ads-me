@@ -1,6 +1,6 @@
 ---
 name: Amazon Fire tablets
-logo: amazon.svg
+logo: /images/logos/amazon.svg
 link:
 ---
 These settings are device-specific. You have to opt out on each device. If you use multiple user profiles, you may have to select these settings for each profile.

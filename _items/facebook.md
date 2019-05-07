@@ -1,6 +1,6 @@
 ---
 name: Facebook
-logo: facebook.svg
+logo: /images/logos/facebook.svg
 link: https://www.facebook.com/ads/preferences
 ---
 This applies to Facebook and Instagram.

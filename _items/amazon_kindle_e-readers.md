@@ -1,6 +1,6 @@
 ---
 name: Amazon Kindle e-readers
-logo: amazon.svg
+logo: /images/logos/amazon.svg
 link:
 ---
 

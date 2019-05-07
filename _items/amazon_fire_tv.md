@@ -1,6 +1,6 @@
 ---
 name: Amazon Fire TV
-logo: amazon.svg
+logo: /images/logos/amazon.svg
 link:
 ---
 

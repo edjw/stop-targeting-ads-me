@@ -1,6 +1,6 @@
 ---
 name: Apple Macs
-logo: apple.svg
+logo: /images/logos/apple.svg
 link:
 ---
 

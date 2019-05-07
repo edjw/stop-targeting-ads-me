@@ -1,6 +1,6 @@
 ---
 name: eBay
-logo: ebay.svg
+logo: /images/logos/ebay.svg
 link:
   - https://www.ebay.co.uk/gdpr
   - https://www.ebay.com/gdpr

@@ -1,6 +1,6 @@
 ---
 name: Smart TVs
-logo: tv.png
+logo: /images/logos/tv.png
 link: https://www.consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features
 ---
 LG, Samsung, Sony, TCL, Roku, and Vizio

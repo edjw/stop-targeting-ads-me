@@ -1,6 +1,6 @@
 ---
 name: Microsoft
-logo: microsoft.svg
+logo: /images/logos/microsoft.svg
 link: https://account.microsoft.com/privacy/ad-settings
 ---
 1. Turn 'See ads that interest you' to off.

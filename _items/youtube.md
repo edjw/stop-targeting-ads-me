@@ -1,6 +1,6 @@
 ---
 name: YouTube
-logo: youtube.svg
+logo: /images/logos/youtube.svg
 link:
   - https://adssettings.google.com/authenticated
   - https://myaccount.google.com/shared-endorsements

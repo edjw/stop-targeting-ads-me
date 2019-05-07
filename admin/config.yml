@@ -1,0 +1,55 @@
+site_url: "https://stoptargetingads.me"
+logo_url: "images/site/social_image_wide.png"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
+
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+  commit_messages:
+    create: Create {{collection}} "{{slug}}"
+    update: Update {{collection}} "{{slug}}"
+    delete: Delete {{collection}} "{{slug}}"
+    uploadMedia: Upload "{{path}}"
+    deleteMedia: Delete "{{path}}"
+
+media_folder: "images/logos"
+
+collections:
+  - name: "item"
+    label: "Items"
+    label_singular: "Item"
+    identifier_field: name
+    folder: "_items"
+    create: true
+    preview_path: "/{{slug}}"
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+
+      - label: "Name"
+        name: "name"
+        widget: "list"
+        hint: "The name or names of the company"
+        field: {label: "Name", name: "name_item", widget: "string"}
+
+      - label: "Links"
+        name: "link"
+        widget: "list"
+        hint: "Link(s) to the opt out page(s) for that organisation"
+        required: false
+        field: {label: "Link", name: "link_item", widget: "string", required: false}
+
+      - label: "Logo"
+        name: "logo"
+        widget: "image"
+        default: "images/site/default_logo.png"
+        hint: "The company logo"
+        media_library:
+          config:
+            multiple: false
+
+      - {label: "Body", name: "body", widget: "markdown", hint: "The instructions about how to opt out"}

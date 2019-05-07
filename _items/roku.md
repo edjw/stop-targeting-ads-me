@@ -1,6 +1,6 @@
 ---
 name: Roku
-logo: roku.png
+logo: /images/logos/roku.png
 link:
 ---
 Opt outs are on-device only.

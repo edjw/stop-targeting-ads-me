@@ -2,7 +2,7 @@
 name:
   - Sky WiFi
   - The Cloud
-logo: sky-wifi-the-cloud.png
+logo: /images/logos/sky-wifi-the-cloud.png
 link: https://service.thecloud.net/service-platform/account/preference-centre/advertising-choices/
 ---
 

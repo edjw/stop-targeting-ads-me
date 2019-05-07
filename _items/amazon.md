@@ -1,6 +1,6 @@
 ---
 name: Amazon
-logo: amazon.svg
+logo: /images/logos/amazon.svg
 link:
   - https://www.amazon.com/adprefs
   - https://www.amazon.co.uk/adprefs

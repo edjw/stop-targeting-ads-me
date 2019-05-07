@@ -9,7 +9,7 @@
             <div class="media pl-2 py-2 rounded-lg border border-secondary">
                 <div class="logo-wrapper mr-3">
                     {% if item.logo %}
-                    <img src="{{ site.url }}/images/logos/{{ item.logo }}" class="logo" alt="">
+                    <img src="{{ site.url }}{{ item.logo }}" class="logo" alt="">
                     {% else %}
                     <img src="{{ site.url }}/images/logos/default_logo.png" class="logo" alt="">
                     {% endif %}

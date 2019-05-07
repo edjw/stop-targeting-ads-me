@@ -1,6 +1,6 @@
 ---
 name: Apple iPhone / iPad
-logo: apple.svg
+logo: /images/logos/apple.svg
 link:
 ---
 
