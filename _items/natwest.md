@@ -3,7 +3,7 @@ name:
   - Natwest
 link:
   - 'https://www.nwolb.com'
-logo: images/site/default_logo.png
+logo: /images/logos/natwest.png
 ---
 On the Natwest Online Banking website, click the "Your Details" in the left-side bar.
 
