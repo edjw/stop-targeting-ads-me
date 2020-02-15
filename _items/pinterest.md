@@ -9,6 +9,6 @@ link: https://www.pinterest.com/settings/privacy
 * [Android devices](/android)
 * [Windows Mobile devices](/windows-mobile)
 
-**Then**, on the link in the section above, toggle 'Use sites you visit to improve which recommendations and ads you see.' and 'Use information from our partner to improve which recommendations and ads you see.' to off
+**Then**, on the link in the section above, toggle 'Use sites you visit to improve which recommendations and ads you see.', 'Use information from our partner to improve which recommendations and ads you see.' and 'Share activity for ad performance reporting.' to off
 
 Pinterest also [respects 'Do Not Track'](https://help.pinterest.com/en/article/do-not-track) which is a privacy setting on web browsers that requests that a web application disable its tracking of an individual user. It is one of very few companies on this site to respect Do Not Track.
