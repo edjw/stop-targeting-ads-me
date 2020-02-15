@@ -1,9 +1,10 @@
 ---
 name: Roku
 logo: /images/logos/roku.png
-link:
+link: https://privacy.roku.com/
 ---
-Opt outs are on-device only.
+
+Toggle 'Personalize ads based on my interests' to No.
 
 _On Roku streaming sticks_, go to Settings > Privacy > Advertising and then click on Limit ad tracking.
 
