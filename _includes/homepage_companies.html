@@ -9,9 +9,9 @@
             <div class="media pl-2 py-2 rounded-lg border border-secondary">
                 <div class="logo-wrapper mr-3">
                     {% if item.logo %}
-                    <img src="{{ site.url }}{{ item.logo }}" class="logo" alt="" loading="lazy">
+                    <img src="{{ site.url }}{{ item.logo }}" class="logo" alt="" loading="lazy" height="{{ item.logo.height }}" width="{{ item.logo.width }}">
                     {% else %}
-                    <img src="{{ site.url }}/images/logos/default_logo.png" class="logo" alt="" loading="lazy">
+                    <img src="{{ site.url }}/images/logos/default_logo.png" class="logo" alt="" loading="lazy" height="{{ item.logo.height }}" width="{{ item.logo.width }}">
                     {% endif %}
                 </div>
 
