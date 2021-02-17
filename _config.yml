@@ -4,7 +4,7 @@ tagline_part_two: websites, apps, services, and devices
 # The current number of sites goes between these two parts above on the frontend. (This file is completely static.)
 description: >- # this means to ignore newlines
   Advertisers use data about what you do and who you are to target ads at you. Start turning off this targeted advertising.
-url: "https://stoptargetingads.me"
+url: "https://stop-targeting-ads-me.netlify.app/"
 
 # Header nav (remember the trailing /)
 navigation_header:
